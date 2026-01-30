@@ -1,7 +1,7 @@
 # **Teamwork Contract**
 
 **Team X**  
-**Team Members:** [List all student names here]   
+**Team Members:** Adam Light, David Leathers, Parker Branson, Summer Morris, Zachary Hirtz   
 *Electrical and Computer Engineering Department*  
 *Tennessee Technological University*
 
@@ -34,15 +34,16 @@ In this section, the team will discuss and clearly define their collective expec
 
 - **Expectation:** Team communication should be:
   - Professional, respectful, and considerate.
-  - Conducted through agreed-upon channels (e.g., email, Slack, Microsoft Teams).
+  - Conducted through Discord/Teams and group chat
   - Responsive, with replies to inquiries within 24 hours on weekdays.
 
 ### **4. Meetings**
 
 - **Expectation:** Regarding team meetings:
-  - **Frequency:** The team will meet [specify frequency, e.g., twice a week on Mondays and Thursdays at 4 PM].
-  - **Attendance:** Members are expected to attend all meetings; absences should be communicated in advance.
+  - **Frequency:** 1 short meeting on Monday or Wednesday at 4 PM (depends on which day opens up for capstone), 1 full meeting every Friday at 12:30 PM 
+  - **Attendance:** Members are expected to attend all meetings; absences should be communicated 12-24 hours in advance via the group text. 
   - **Preparation:** Members should come prepared, having completed any agreed-upon tasks or research.
+  
 
 ### **5. Conduct**
 
@@ -53,13 +54,15 @@ In this section, the team will discuss and clearly define their collective expec
 
 ### **6. Conflict Resolution**
 
-- **Expectation:** The team will:
-  - Address conflicts promptly through open dialogue.
-  - Use a step-by-step approach to resolve issues:
-    1. Discuss the issue privately between involved parties.
-    2. If unresolved, bring the issue to the team for discussion.
-    3. Seek input from the instructor if necessary.
-  - Focus on finding mutually acceptable solutions.
+- **For General Disagreements**
+  - If teammates have a disagreement this will be settled by the team lead (Adam Light)
+  - if the team disagrees with the team lead in a 4-1 decision, the project manager (Storm Johnson) will be consulted to either uphold or override the team lead's decision
+- **For Misunderstandings** (causing a disruption to work lasting over 1 hour)
+  - Walk away and take a break (minimum of 15 minutes)
+  - If the misunderstanding persists after one break, ask for help from other teammates, advisor or Storm  
+  - If all else fails, team lead makes the decision  
+  
+  
 
 ### **7. Deadlines**
 
