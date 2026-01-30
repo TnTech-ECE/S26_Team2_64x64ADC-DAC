@@ -1,11 +1,10 @@
 # **Teamwork Contract**
 
-**Team X**  
-**Team Members:** Adam Light, David Leathers, Parker Branson, Summer Morris, Zachary Hirtz   
+## **Team 2**
+64 Channel AD/DA FPGA 
+## **Team Members:** Adam Light, David Leathers, Parker Branson, Summer Morris, Zachary Hirtz   
 *Electrical and Computer Engineering Department*  
 *Tennessee Technological University*
-
-The following are suggestions for items to include in your team contract. You get to customize this document as you see fit. Note that your final contract, must be approved by your instructor.
 
 ## **Introduction**
 
@@ -21,7 +20,7 @@ In this section, the team will discuss and clearly define their collective expec
 - **Expectation:** Each team member is expected to:
   - Actively participate in all team meetings and discussions.
   - Engage fully in project activities and contribute ideas.
-  - Notify the team in advance if unable to attend a meeting or meet an obligation.
+  - Notify the team 12-24 hours in advance if unable to attend a meeting or meet an obligation.
 
 ### **2. Contribution** *(Progress on the Project)*
 
@@ -40,10 +39,23 @@ In this section, the team will discuss and clearly define their collective expec
 ### **4. Meetings**
 
 - **Expectation:** Regarding team meetings:
-  - **Frequency:** 1 short meeting on Monday or Wednesday at 4 PM (depends on which day opens up for capstone), 1 full meeting every Friday at 12:30 PM 
-  - **Attendance:** Members are expected to attend all meetings; absences should be communicated 12-24 hours in advance via the group text. 
+  - **Frequency:** 1 short meeting on Monday or Wednesday at 4 PM (depends on which day opens up for capstone)
+  - 1 full meeting every Friday at 12:30 PM
+  - All times are Central Standard Time (CST)
+  - **Attendance:** Members are expected to attend all meetings; absences should be communicated 12-24 hours in advance via the group text.
+  - **Unexcused Absences:**
+    - If a teammate is absent from a meeting with no excuse, they will receive a strike
+    -Three strikes will result in a meeting with Storm
+    -A fourth strike results in firing from the team, resulting in a 0 in the course  
   - **Preparation:** Members should come prepared, having completed any agreed-upon tasks or research.
-  
+- **Alternative and Additional Meeting Platforms:** If in-person meetings are unable to occur due to weather or unforseen circumstances:
+  - Meetings will occur over Discord or Teams
+- **Availability During School Breaks and Weekends:**
+- **Every team member is entitled to the school breaks, holidays and Sundays:**
+  - During these breaks, the team members must list a status indicating if they will be reachable or not  
+- Team members should be reachable from Monday through Saturday
+
+    
 
 ### **5. Conduct**
 
@@ -76,18 +88,20 @@ In this section, the team will discuss and clearly define their collective expec
 
 Assigning specific roles can help streamline team operations. Below, define any unique roles, their responsibilities, the powers granted, and any changes to expectations.
 
-**a. Team Leader/Coordinator: (Required)** [Name of student who will fill this role]
+**a. Team Leader/Coordinator: (Required)** [Adam Light]
 
 - **Responsibilities:**
   - Schedule and coordinate team meetings.
   - Facilitate meetings to ensure all voices are heard.
   - Monitor project timelines and milestones.
+  - Communicate with entities to acquire additional funding
+  - Settle disagreements between team membmers
 - **Powers Granted:**
   - Authority to make minor decisions to keep the project on track after team consultation.
 - **Expectation Changes:**
   - In addition to regular duties, the Team Leader will handle organizational tasks but remains equally responsible for project work.
 
-**b. Recorder/Secretary: (Optional)** [Name of student who will fill this role]
+**b. Recorder/Secretary: (Optional)** [Parker Branson] [ALT: Summer Morris]  
 
 - **Responsibilities:**
   - Take detailed notes during meetings.
@@ -102,7 +116,10 @@ Assigning specific roles can help streamline team operations. Below, define any 
 
 ## **Additional Agreements**
 
-Include any other important agreements the team decides upon.
+- On 4/20/2026, the team will set a date to determine the roles of the team members over the summer break
+- All teammates agree to be recorded by other teammates for purposes related to the project. If a teammate begins recording, they must clearly announce the beginning of the recording
+- 
+
 
 
 ## **Team Member Signatures**
