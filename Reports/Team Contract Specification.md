@@ -42,12 +42,16 @@ In this section, the team will discuss and clearly define their collective expec
   - **Frequency:** One hour long meeting on Monday or Wednesday at 4 PM (depends on which day opens up for capstone)
   - One (minimum 1-hour) meeting every Friday at 12:30 PM
   - All times are Central Standard Time (CST)
-  - **Attendance:** Members are expected to attend all meetings; absences should be communicated 12-24 hours in advance via the group text
+  - **Attendance:** Members are expected to attend all meetings; absences should be communicated 24 hours in advance via the group text
   - **Unexcused Absences:**
-    - If a teammate is absent from a meeting with no excuse, they will receive a strike
-    -Three strikes will result in a meeting with the Project Manager (Storm Johnson)
-    -A fourth strike results in a vote for removal from the team
-  - **Preparation:** Members should come prepared, having completed any agreed-upon tasks or research
+  - An absence is considered unexcused if a team member does not attend a scheduled virtual or in-person meeting and does not notify the group within the 24 hour notification timeframe
+  - A unexcused absence can be overruled by the team with a unanimous vote 
+  - **Disciplinary Action:**
+  - If a teammate is absent from a meeting with no excuse, they will receive a strike 
+  - Strikes will be documented in the Meeting Minutes and will be tracked in an internal spreadsheet that is maintained by the team lead (Adam Light)
+  -Three strikes will result in a meeting with the Project Manager (Storm Johnson)
+  -A fourth strike results in a vote for removal from the team
+- **Preparation:** Members should come prepared, having completed any agreed-upon tasks or research
 - **Alternative and Additional Meeting Platforms:** If in-person meetings are unable to occur due to weather or unforseen circumstances:
   - Meetings will occur over Discord or Teams
 - **Availability During School Breaks and Weekends:**
@@ -116,10 +120,13 @@ Assigning specific roles can help streamline team operations. Below, define any 
 
 ## **Additional Agreements**
 
-- On 4/20/2026, the team will set a date to determine the roles of the team members over the summer break
+- On 4/20/2026, the team will set a date to determine the minimum expectations for communication, contribution, and roles of the team members over the summer break
 - All teammates agree to be recorded by other teammates for purposes related to the project
 - If a teammate begins recording, they must clearly announce the beginning of the recording
 - All issues not covered by this contract fall under IEEE code of ethics and the TTU student handbook
+## **Ammendments and Changes**
+- Ammendments and changes to the Team Contract can be made via an unanimous vote by the team
+- If a change is made to the Team Contract, the project manager (Storm Johnson) will be notified via email
 
 
 
