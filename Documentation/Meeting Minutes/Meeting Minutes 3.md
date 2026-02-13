@@ -10,6 +10,10 @@ Zach
 - Designated Zachary Hirtz as Bill of Material manager
 - Sorted through equipment already owned by David to determine if it can be used for the project
 - TCL script to send email notifications when compilation is done in Vivado will be delivered by next Wednesday by Adam Light
+- Worked on the project proposal
+- Zachary is to deliver 2 fully completed pages for the FPGA power sequencing
+
 - 
 ## Next meeting 
+- Get clarification about governing bodies section of proposal
 - 
