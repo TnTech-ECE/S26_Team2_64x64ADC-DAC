@@ -1,5 +1,5 @@
 ## Minutes 2/13/26
-12:00- 4:45
+12:00- 4:10
 ## Attendance 
 Adam\
 David\
@@ -16,4 +16,4 @@ Zach
 - 
 ## Next meeting 
 - Get clarification about governing bodies section of proposal
-- 
+- Work on reports for ordering parts for prototyping (Adam and David)
