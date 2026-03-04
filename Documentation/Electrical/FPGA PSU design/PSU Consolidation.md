@@ -17,5 +17,6 @@ We will power these off the 1v5 supply just like AC701
 
 VTTDDR powered by 0.75v @ 3A (provides VTTVref, no current spec)
 
-DDR3 VTERM R 0v75 0.75 @3A 
+DDR3 VTERM R 0v75 0.75 @3A
+
 ------------------------------
