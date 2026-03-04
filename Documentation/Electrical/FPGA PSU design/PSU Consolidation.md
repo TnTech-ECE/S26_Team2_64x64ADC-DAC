@@ -12,8 +12,6 @@ FPGA_3v3 = 6A
 *each line item is a FS1412
 ----------------------------------------------------
 
-Assume 3v3 operation; VCCO_VADJ + FPGA_3v3 = 12A
-
 VCCINT + VCCBRAM = 13A, may be possible with FS1412 (12A)*
 
 FPGA1v5 
