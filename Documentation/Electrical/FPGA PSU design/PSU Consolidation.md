@@ -1,4 +1,6 @@
 
+Planning on using UCD9081
+
 *each line item is a FS1006-3300
 ---------------------------------------
 Assume 3v3 operation; VCCO_VADJ 6A
