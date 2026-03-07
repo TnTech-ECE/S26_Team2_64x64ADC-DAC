@@ -12,7 +12,7 @@ FPGA_3v3 = 6A
 *each line item is a FS1412
 ----------------------------------------------------
 
-VCCINT + VCCBRAM = 13A, may be possible with FS1412 (12A)*
+VCCINT + VCCBRAM = 13A, may be possible with FS1412 (12A) (1.0V)*
 
 FPGA1v5 
 
