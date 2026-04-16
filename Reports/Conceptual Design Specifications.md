@@ -636,33 +636,61 @@ Based on the high-level design, the following sections provide comprehensive spe
 9. The FPGA shall communicate with on-board MCUs via SPI master to relay analog filter parameter changes from the host.
 10. A SYS_MB crash shall not interrupt audio processing; the RT_MB shall continue operating independently with last-known-good coefficients.
 
-## Ethical, Professional, and Standards Considerations
 
-### Broader Implications, Ethics, and Responsibility as Engineers
+### **Broader Implications, Ethics, and Responsibility as Engineers**
 
 Contributor: Zachary
 
-On a broader scale, this project can enable more communities to have access to studio-grade recording systems such as churches or independent music studios. By offering a more affordable alternative, other companies may be forced to bring down their artificially high prices. Additionally, improved affordability could enable the growth of more independent studios which might allow niche musical artists and creative groups to attain more success.
+### **Sustainability**
 
-The audio industry is also notoriously slow to adapt to change. This project with its inclusion of digitally controllable analog filters has the potential to push the technology into the mainstream. This might lead to additional innovation in the future, much like the change from 2" tape to digital recording formats. 
+The system shall incorporate basic measures to reduce unnecessary environmental impact. These constraints originate from broader concerns regarding electronic waste and energy usage.
 
-While there are very few potential negative impacts of this project, a major argument that almost always occurs from a reduction of the barrier-to-entry is degradation of the quality of music. It has been argued over the past 20-25 years that the quality of mainstream music has degraded due in part to the very low barrier-to-entry. Artists with a laptop and two-channel recorder in 2026 can make a record that is on many levels technically superior to a $300,000 record recorded in a multi-million dollar recording studio in 1996. There is likely very little that can be done about this, as the issue is a broader societal one, rather than one created by a lack of gatekeeping. 
+* The system shall use **commercially available, RoHS-compliant components** where possible.  
+* The design shall avoid unnecessary complexity in PCB fabrication (e.g., excessive layer count) to reduce material usage.  
+* The modular structure of the system (separate FPGA, analog, and interface sections) inherently supports **partial reuse and replacement**, reducing total system waste.
 
-### Professional Responsibility
+### **Accessibility**
 
-As engineering professionals, the team has a responsibility to ensure the system is designed and documented to a standard that another qualified engineer could reproduce, verify, and maintain. All design decisions are traceable to specifications or constraints documented in this report. Safety-critical design choices -- particularly in the power supply and high-voltage analog sections -- are informed by IEC 62368-1 and are not left to manufacturing discretion. The team also acknowledges a responsibility to provide honest performance characterization; audio specifications (THD+N, dynamic range, crosstalk) shall be measured using AES17-compliant methods and reported without embellishment.
+The system shall ensure basic usability for a general technical audience.
 
-### Standards Compliance and Design Impact
+* The system shall provide **clear and unambiguous user feedback** (e.g., readable display or serial output).  
+* The design shall avoid reliance on a single mode of interaction (e.g., color-only indicators), improving usability across users.
 
-The design is directly informed by the standards identified in the constraints section. IEC 62368-1 [1] influences the power supply design: all user-accessible voltages are below the hazardous energy thresholds defined by the standard, the 12V DC input uses a class-rated external supply, and the +/-15V analog rails are internal to the enclosure with no user-accessible contact points. CISPR 32 [2] Class B emission limits inform the PCB layout practices: separate analog and digital ground planes, controlled impedance for high-speed SPI and TDM traces, and ferrite beads on power rail entry points. The AES3 standard [3] directly defines the TDM4 framing protocol used for all audio data transfer. AES17 [4] measurement methods shall be used during system validation to verify THD+N, frequency response flatness, and interchannel crosstalk specifications.
+These constraints originate from general ethical considerations regarding inclusive and usable engineering design.
 
-RoHS compliance is enforced through component selection -- all parts in the BOM are verified RoHS compliant, and lead-free assembly processes are specified in the JLCPCB fabrication order.
+### 
 
-## Resources
+### **Safety and Reliability**
+
+The system shall be designed to prevent damage to itself and connected equipment under normal operating conditions.
+
+* The system shall ensure that all analog and digital signals remain within specified voltage limits.  
+* The design shall follow standard mixed-signal layout practices (e.g., grounding and separation of analog/digital domains) to reduce unintended behavior.
+
+These constraints originate from professional engineering responsibility and standard design practices.
+
+### **Standards Considerations**
+
+The design shall follow commonly accepted engineering standards and best practices where applicable.
+
+* PCB design shall align with general **IPC layout guidelines**.  
+* Components shall comply with **RoHS requirements** where available.  
+* Mixed-signal design practices shall follow established conventions for grounding and noise mitigation.
+
+## **Resources**
+
+### Preamble
+
+The budget for this project was estimated to around $2000 several months in advance in the project proposal. Since no pushback on the budget was formally given, the team decided to push forward with the design. However, the feedback received from this Conceptual Design document placed an $1100 threshold on how much the team can receive from the University.
+
+While funding from external sources is certainly available, initial, minimal prototype funds were needed to build and test an evaluation PCB with scaled down features from the full design. Despite following the proper channels, including a **detailed** BoM, a formal justification to the ECE chair, and instructor approval, the ECE department was unable and/or unwilling to make a decision and provide funds for the prototyping stage. 
+
+Given these circumstances, mitigation strategies are currently being explored, and the estimated $2000 budget shall be adhered to, with the knowledge and assumption that the $1100 University funding will only become available in the Fall semester. 
 
 ### Budget
 
 The following budget covers the evaluation board prototype. Production board and FPGA motherboard budgets are estimated separately where applicable.
+
 
 **ADC Subsystem (Eval Board -- 4 channels):**
 
